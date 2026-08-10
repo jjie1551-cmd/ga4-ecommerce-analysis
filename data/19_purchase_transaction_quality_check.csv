@@ -1,0 +1,2 @@
+purchase_event_count,missing_or_invalid_transaction_id_events,valid_distinct_transaction_ids,missing_purchase_revenue_events,total_purchase_revenue
+5692,906,4451,450,362165.0

@@ -1,0 +1,9 @@
+source_medium,total_sessions,view_sessions,checkout_sessions,purchase_sessions,session_to_view_rate_pct,view_to_checkout_rate_pct,checkout_to_purchase_rate_pct,overall_purchase_rate_pct
+google / organic,111488,23271,3026,1181,20.87,13.0,39.03,1.06
+(direct) / (none),82362,17310,2413,1038,21.02,13.94,43.02,1.26
+<Other> / <Other>,51775,10489,1343,486,20.26,12.8,36.19,0.94
+<Other> / referral,34110,7257,1018,449,21.28,14.03,44.11,1.32
+shop.googlemerchandisestore.com / referral,28044,6383,1051,546,22.76,16.47,51.95,1.95
+(data deleted) / (data deleted),21087,5274,1089,645,25.01,20.65,59.23,3.06
+google / cpc,15534,3141,381,148,20.22,12.13,38.85,0.95
+<Other> / organic,10078,2047,233,91,20.31,11.38,39.06,0.9

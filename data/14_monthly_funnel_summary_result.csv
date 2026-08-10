@@ -1,0 +1,4 @@
+month,total_sessions,view_sessions,checkout_sessions,purchase_sessions,session_to_view_rate_pct,view_to_checkout_rate_pct,checkout_to_purchase_rate_pct,overall_purchase_rate_pct
+2020-11,106550,25289,4410,1532,23.73,17.44,34.74,1.44
+2020-12,131793,27474,4157,2011,20.85,15.13,48.38,1.53
+2021-01,116514,22501,2005,1049,19.31,8.91,52.32,0.9

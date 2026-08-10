@@ -1,0 +1,6 @@
+stage_order,funnel_stage,session_count,overall_conversion_rate_pct,step_conversion_rate_pct,step_dropoff_rate_pct,lost_sessions
+1,进入网站,354857,100.0,,,
+2,浏览商品,75271,21.21,21.21,78.79,279586
+3,加入购物车,14909,4.2,19.81,80.19,60362
+4,开始结账,10853,3.06,72.79,27.21,4056
+5,完成购买,4745,1.34,43.72,56.28,6108

@@ -1,0 +1,2 @@
+purchase_item_rows,purchased_item_names,missing_item_revenue_rows,item_revenue_coverage_pct,missing_price_rows,missing_quantity_rows,rows_without_any_revenue_method,recorded_item_revenue,estimated_revenue_from_price_quantity
+16003,396,448,97.2,448,448,448,362110.0,0.0

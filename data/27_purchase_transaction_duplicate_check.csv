@@ -1,0 +1,2 @@
+all_purchase_events,valid_transaction_events,valid_distinct_transactions,extra_repeated_events,transaction_ids_with_multiple_events,maximum_events_for_one_transaction,transaction_ids_with_inconsistent_revenue,raw_valid_event_revenue,deduplicated_valid_transaction_revenue
+5692,4786,4451,335,326,4,15,330348.0,308200.0

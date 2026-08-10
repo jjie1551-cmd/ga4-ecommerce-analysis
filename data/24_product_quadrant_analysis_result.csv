@@ -1,0 +1,234 @@
+item_name,item_category,view_session_items,cart_after_view_session_items,checkout_after_view_session_items,strict_purchase_session_items,all_purchase_session_items,view_to_cart_rate_pct,view_to_checkout_rate_pct,strict_view_to_purchase_rate_pct,strict_purchase_coverage_pct,high_view_threshold,purchase_rate_benchmark,product_quadrant,estimated_gap_vs_benchmark,data_reliability_note
+Google Women's Striped L/S,Home/Sale/,11484,3420,0,0,0,29.78,0.0,0.0,,5727,0.83,高浏览 + 低转化,95.3,购买样本较少
+Google F/C Long Sleeve Tee Charcoal,Home/Apparel/Men's / Unisex/,11417,2893,0,0,0,25.34,0.0,0.0,,5727,0.83,高浏览 + 低转化,94.8,购买样本较少
+Google Campus Bike Eco Tee Navy,Home/Apparel/Men's / Unisex/,13866,3517,33,22,40,25.36,0.24,0.16,55.0,5727,0.83,高浏览 + 低转化,92.9,可用于初步比较
+Google F/C Long Sleeve Tee Ash,Men's / Unisex,9623,2774,0,0,0,28.83,0.0,0.0,,5727,0.83,高浏览 + 低转化,79.9,购买样本较少
+YouTube Icon Tee Grey,Home/Apparel/Men's / Unisex/,14083,2266,57,39,56,16.09,0.4,0.28,69.64,5727,0.83,高浏览 + 低转化,77.5,可用于初步比较
+Google Land & Sea French Terry Sweatshirt,Home/New/,11756,2021,44,24,28,17.19,0.37,0.2,85.71,5727,0.83,高浏览 + 低转化,74.1,可用于初步比较
+Google Eco Tee Black,Home/Apparel/Men's / Unisex/,8631,1962,0,0,0,22.73,0.0,0.0,,5727,0.83,高浏览 + 低转化,71.6,购买样本较少
+Google Navy Speckled Tee,Home/Apparel/Men's / Unisex/,17193,4111,116,77,131,23.91,0.67,0.45,58.78,5727,0.83,高浏览 + 低转化,65.3,可用于初步比较
+YouTube Women's Favorite Tee White,Home/Sale/,8009,2198,3,2,5,27.44,0.04,0.02,40.0,5727,0.83,高浏览 + 低转化,64.9,购买样本较少
+Android Large Trace Journal Black,Home/Sale/,9216,2609,28,12,21,28.31,0.3,0.13,57.14,5727,0.83,高浏览 + 低转化,64.5,可用于初步比较
+Android Small Trace Journal Black,Home/Sale/,8664,2383,20,10,14,27.5,0.23,0.12,71.43,5727,0.83,高浏览 + 低转化,61.5,购买样本较少
+Android Large Removable Sticker Sheet,Home/Sale/,11379,3161,58,33,48,27.78,0.51,0.29,68.75,5727,0.83,高浏览 + 低转化,61.4,可用于初步比较
+Google Small Standard Journal Navy,Home/Sale/,9482,2845,47,18,44,30.0,0.5,0.19,40.91,5727,0.83,高浏览 + 低转化,60.7,严格路径覆盖较低
+Android Super Hero 3D Framed Art,Home/Sale/,9248,2413,24,17,27,26.09,0.26,0.18,62.96,5727,0.83,高浏览 + 低转化,60.1,可用于初步比较
+Google Heather Green Speckled Tee,Home/Apparel/Women's/,11085,2071,44,32,63,18.68,0.4,0.29,50.79,5727,0.83,高浏览 + 低转化,59.9,可用于初步比较
+Google Leather Strap Hat Black,Home/Apparel/Hats/,6889,2630,2,0,33,38.18,0.03,0.0,0.0,5727,0.83,高浏览 + 低转化,57.2,严格路径覆盖较低
+Google Laptop Sleeve Charcoal,Lifestyle/Bags/,7606,1560,22,9,12,20.51,0.29,0.12,75.0,5727,0.83,高浏览 + 低转化,54.0,购买样本较少
+Google Tee Green,Home/Sale/,8070,2198,41,14,17,27.24,0.51,0.17,82.35,5727,0.83,高浏览 + 低转化,53.3,购买样本较少
+Google Land & Sea Women's Eco Tee,Home/New/,6866,1306,6,5,10,19.02,0.09,0.07,50.0,5727,0.83,高浏览 + 低转化,52.2,购买样本较少
+Google Land & Sea Unisex Tee,Home/Apparel/Men's / Unisex/,6283,1240,2,0,0,19.74,0.03,0.0,,5727,0.83,高浏览 + 低转化,52.1,购买样本较少
+Google Tee Yellow,Home/Sale/,8889,2485,37,22,31,27.96,0.42,0.25,70.97,5727,0.83,高浏览 + 低转化,51.6,可用于初步比较
+YouTube Leather Strap Hat Black,Home/Shop by Brand/YouTube/,11129,3338,79,41,68,29.99,0.71,0.37,60.29,5727,0.83,高浏览 + 低转化,51.2,可用于初步比较
+Android Techie 3D Framed Art,Home/Sale/,8844,2466,33,23,35,27.88,0.37,0.26,65.71,5727,0.83,高浏览 + 低转化,50.4,可用于初步比较
+Android Garden Tee Orange,Home/Apparel/Women's/,7360,1484,24,12,27,20.16,0.33,0.16,44.44,5727,0.83,高浏览 + 低转化,49.3,严格路径覆盖较低
+YouTube Small Sticker Sheet,Home/Shop by Brand/YouTube/,6076,1186,3,2,12,19.52,0.05,0.03,16.67,5727,0.83,高浏览 + 低转化,48.6,购买样本较少
+Android Iconic Hat Green,Home/Apparel/Hats/,7208,2677,25,13,24,37.14,0.35,0.18,54.17,5727,0.83,高浏览 + 低转化,46.9,可用于初步比较
+Google Land & Sea Journal Set,Home/New/,9009,2051,68,29,41,22.77,0.75,0.32,70.73,5727,0.83,高浏览 + 低转化,45.9,可用于初步比较
+Android Iconic Hat Black,Home/Apparel/Hats/,7549,2681,49,23,28,35.51,0.65,0.3,82.14,5727,0.83,高浏览 + 低转化,40.0,可用于初步比较
+Google Land & Sea Tech Taco,Home/New/,7253,1505,45,20,22,20.75,0.62,0.28,90.91,5727,0.83,高浏览 + 低转化,39.9,可用于初步比较
+Google Blue Stojo Cup,Home/New/,7987,1577,71,28,38,19.74,0.89,0.35,73.68,5727,0.83,高浏览 + 低转化,38.3,可用于初步比较
+YouTube Icon Tee Charcoal,Home/Apparel/Men's / Unisex/,11722,2145,104,61,83,18.3,0.89,0.52,73.49,5727,0.83,高浏览 + 低转化,36.3,可用于初步比较
+Google Land & Sea Nalgene Water Bottle,New,7493,1499,40,26,53,20.01,0.53,0.35,49.06,5727,0.83,高浏览 + 低转化,36.0,严格路径覆盖较低
+Android Iconic Beanie,Home/Apparel/Hats/,6503,2601,29,18,23,40.0,0.45,0.28,78.26,5727,0.83,高浏览 + 低转化,35.8,可用于初步比较
+Android Iconic Hat White,Home/Apparel/Hats/,6278,2548,24,17,23,40.59,0.38,0.27,73.91,5727,0.83,高浏览 + 低转化,35.2,可用于初步比较
+Google Sherpa Zip Hoodie Charcoal,Men's / Unisex,11326,2231,92,59,93,19.7,0.81,0.52,63.44,5727,0.83,高浏览 + 低转化,35.1,可用于初步比较
+Android SM S/F18 Sticker Sheet,Home/Sale/,11422,3198,107,62,91,28.0,0.94,0.54,68.13,5727,0.83,高浏览 + 低转化,33.1,可用于初步比较
+Google Utility Bag Grey,Lifestyle/Bags/,8696,1917,80,45,58,22.04,0.92,0.52,77.59,5727,0.83,高浏览 + 低转化,27.0,可用于初步比较
+Google Campus Bike Bottle,Lifestyle/Drinkware/,5727,1483,39,23,32,25.89,0.68,0.4,71.88,5727,0.83,高浏览 + 低转化,24.6,可用于初步比较
+Stan and Friends Tee Green,Home/Apparel/Women's/,5914,1409,43,25,37,23.82,0.73,0.42,67.57,5727,0.83,高浏览 + 低转化,24.2,可用于初步比较
+Google Land & Sea Mug,Shop by Brand,7280,1536,53,37,38,21.1,0.73,0.51,97.37,5727,0.83,高浏览 + 低转化,23.3,可用于初步比较
+Google Sherpa Zip Hoodie Navy,Home/Apparel/Men's / Unisex/,6800,944,51,34,71,13.88,0.75,0.5,47.89,5727,0.83,高浏览 + 低转化,22.4,严格路径覆盖较低
+YouTube Twill Sandwich Cap Black,Home/Apparel/Hats/,9849,2773,671,62,88,28.16,6.81,0.63,70.45,5727,0.83,高浏览 + 低转化,19.7,可用于初步比较
+Google Speckled Beanie Navy,Home/Apparel/Hats/,9907,3205,98,65,87,32.35,0.99,0.66,74.71,5727,0.83,高浏览 + 低转化,16.8,可用于初步比较
+YouTube Jotter Task Pad,Home/Stationery/Notebooks/,7040,1507,89,44,54,21.41,1.26,0.63,81.48,5727,0.83,高浏览 + 低转化,14.1,可用于初步比较
+Google Beekeepers Tee Mint,Home/Apparel/Women's/,6148,1433,57,40,46,23.31,0.93,0.65,86.96,5727,0.83,高浏览 + 低转化,11.1,可用于初步比较
+Google Speckled Beanie Grey,Home/Apparel/Hats/,6742,2618,59,46,66,38.83,0.88,0.68,69.7,5727,0.83,高浏览 + 低转化,10.1,可用于初步比较
+Super G Unisex Joggers,Home/Apparel/Men's / Unisex/,17717,3940,226,140,218,22.24,1.28,0.79,64.22,5727,0.83,高浏览 + 低转化,7.1,可用于初步比较
+Google Land & Sea Cotton Cap,Home/Apparel/,11810,3760,130,93,107,31.84,1.1,0.79,86.92,5727,0.83,高浏览 + 低转化,4.7,可用于初步比较
+Google Zip Hoodie F/C,Home/Apparel/Men's / Unisex/,16786,4092,219,142,221,24.38,1.3,0.85,64.25,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Badge Heavyweight Pullover Black,Men's / Unisex,11012,3007,125,95,150,27.31,1.14,0.86,63.33,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Crewneck Sweatshirt Navy,Home/Apparel/,10587,3246,235,158,188,30.66,2.22,1.49,84.04,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Crewneck Sweatshirt Green,Home/Apparel/Men's / Unisex/,9302,2830,151,104,150,30.42,1.62,1.12,69.33,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Heathered Pom Beanie,Home/Apparel/Hats/,9280,3086,171,123,170,33.25,1.84,1.33,72.35,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Leather Strap Hat Blue,Home/Apparel/,8351,3070,109,77,115,36.76,1.31,0.92,66.96,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Android Iconic Crewneck Sweatshirt,Home/Apparel/Men's / Unisex/,7377,1739,107,66,85,23.57,1.45,0.89,77.65,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Red Speckled Tee,Home/Apparel/Men's / Unisex/,7329,2097,147,113,135,28.61,2.01,1.54,83.7,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Noogler Android Figure,Lifestyle/Small Goods/,6123,1318,112,68,97,21.53,1.83,1.11,70.1,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Large Tote White,Lifestyle/Bags/,6110,1237,73,51,73,20.25,1.19,0.83,69.86,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Glass Bottle,Lifestyle/Drinkware/,5924,1671,109,56,84,28.21,1.84,0.95,66.67,5727,0.83,高浏览 + 高转化,0.0,可用于初步比较
+Google Men's Tech Fleece Grey,Home/Shop by Brand/Google/,5495,1697,93,67,91,30.88,1.69,1.22,73.63,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Dino Game Tee,Men's / Unisex,5077,997,91,57,84,19.64,1.79,1.12,67.86,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Keyboard DOT Sticker,Office,5045,1360,86,43,61,26.96,1.7,0.85,70.49,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Crew Socks,Home/Apparel/,4935,1061,146,88,132,21.5,2.96,1.78,66.67,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Women's Grid Zip-Up,Home/Apparel/Women's/,4592,1119,57,43,49,24.37,1.24,0.94,87.76,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Toddler FC Tee Charcoal,Home/Apparel/Kids/,3550,744,48,31,38,20.96,1.35,0.87,81.58,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Crewneck Sweatshirt Grey,Home/Apparel/Men's / Unisex/,3371,1069,79,53,76,31.71,2.34,1.57,69.74,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Laptop and Cell Phone Stickers,Home/Stationery/,3297,1004,178,96,138,30.45,5.4,2.91,69.57,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+#IamRemarkable Unisex T-Shirt,Home/Apparel/Men's / Unisex/,3175,756,54,34,43,23.81,1.7,1.07,79.07,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Metallic Notebook Set,Home/Stationery/,3154,1018,162,91,119,32.28,5.14,2.89,76.47,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Large Standard Journal Grey,Home/Stationery/Notebooks/,3152,909,80,44,68,28.84,2.54,1.4,64.71,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Thermal Tumbler Navy,Drinkware,3120,615,70,47,71,19.71,2.24,1.51,66.2,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Camp Mug Ivory,Drinkware,3110,902,156,117,178,29.0,5.02,3.76,65.73,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Black Cork Journal,Stationery,3102,896,97,51,74,28.88,3.13,1.64,68.92,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Split Seam Tee Olive,Home/Apparel/Men's / Unisex/,3043,827,49,27,35,27.18,1.61,0.89,77.14,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Super G Tumbler (Red Lid),Home/Eco-Friendly/,3031,597,54,33,40,19.7,1.78,1.09,82.5,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Perk Thermal Tumbler,Google,3001,570,105,69,101,18.99,3.5,2.3,68.32,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Pen White,Home/Stationery/,2971,1004,122,78,101,33.79,4.11,2.63,77.23,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cloud Pen,Home/Stationery/,2953,756,67,39,44,25.6,2.27,1.32,88.64,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Recycled Pen Black,Home/Eco-Friendly/,2929,579,51,28,38,19.77,1.74,0.96,73.68,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cotopaxi Shell,Home/Sale/,2917,426,71,48,73,14.6,2.43,1.65,65.75,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Android Pocket Onesie Navy,Home/Apparel/Kids/,2902,770,41,30,46,26.53,1.41,1.03,65.22,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Clear Pen 4-Pack,Home/Stationery/,2857,974,131,80,138,34.09,4.59,2.8,57.97,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Emoji Sticker Pack,Home/Stationery/,2816,816,58,33,51,28.98,2.06,1.17,64.71,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google NYC Campus Sticker,Home/Shop by Brand/Google/,2728,814,45,28,38,29.84,1.65,1.03,73.68,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+#IamRemarkable Unisex Hoodie,Home/Apparel/Men's / Unisex/,2586,478,36,24,26,18.48,1.39,0.93,92.31,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Canteen Bottle Black,Drinkware,2577,648,119,88,116,25.15,4.62,3.41,75.86,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google NYC Campus Bottle,Home/Campus Collection/,2552,724,40,23,34,28.37,1.57,0.9,67.65,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Aluminum Bottle Red,Home/New/,2489,617,40,21,22,24.79,1.61,0.84,95.45,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Infant Hero Tee Olive,Home/Apparel/Kids/,2479,582,34,25,37,23.48,1.37,1.01,67.57,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google NYC Campus Mug,Home/Campus Collection/,2426,706,99,68,90,29.1,4.08,2.8,75.56,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Toddler Tee White,Home/Apparel/Kids/,2404,531,32,23,27,22.09,1.33,0.96,85.19,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Android Buoy Bottle,Lifestyle/,2363,452,82,39,50,19.13,3.47,1.65,78.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cambridge Campus Mug,Home/Campus Collection/,2346,653,66,38,44,27.83,2.81,1.62,86.36,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Camp Mug Gray,Drinkware,2305,760,109,76,85,32.97,4.73,3.3,89.41,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Crew Combed Cotton Sock,Home/Apparel/,2270,574,76,54,83,25.29,3.35,2.38,65.06,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Light Pen Blue,Home/Stationery/Writing/,2174,823,104,67,81,37.86,4.78,3.08,82.72,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Toddler FC Zip Hoodie,Apparel,2168,394,87,56,68,18.17,4.01,2.58,82.35,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Youth Hero Tee Grey,Home/Apparel/Kids/,2167,511,37,25,32,23.58,1.71,1.15,78.13,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Bot (Multicolored),Home/New/,2142,490,62,30,36,22.88,2.89,1.4,83.33,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google 24oz Ring Bottle Blue,Lifestyle/Drinkware/,2093,520,43,34,42,24.84,2.05,1.62,80.95,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Decal,Home/Stationery/,2090,550,53,26,61,26.32,2.54,1.24,42.62,5727,0.83,低浏览 + 高转化,0.0,严格路径覆盖较低
+Google Sunglasses,Lifestyle/,2080,333,62,39,67,16.01,2.98,1.88,58.21,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Campus Bike,Google,2033,170,95,64,96,8.36,4.67,3.15,66.67,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Maze Pen,Home/Stationery/,1970,516,53,26,45,26.19,2.69,1.32,57.78,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Mural Sticker Sheet,Home/Stationery/Stickers/,1909,603,76,51,66,31.59,3.98,2.67,77.27,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Men's Tech Fleece Vest Charcoal,Home/Apparel/Men's / Unisex/,1904,392,70,47,60,20.59,3.68,2.47,78.33,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+#IamRemarkable Journal,Home/Stationery/Notebooks/,1903,628,36,26,36,33.0,1.89,1.37,72.22,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Flamingo and Friends Tee Blue,Women's,1875,395,36,20,25,21.07,1.92,1.07,80.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Hemp Tote,Lifestyle/,1847,407,56,35,48,22.04,3.03,1.89,72.92,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Pen Citron,Home/Stationery/Writing/,1827,613,54,35,50,33.55,2.96,1.92,70.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Youth Badge Tee Navy,Home/Apparel/Kids/,1791,570,25,20,23,31.83,1.4,1.12,86.96,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Android Pocket Toddler Tee Navy,Home/Apparel/Kids/,1764,547,36,25,27,31.01,2.04,1.42,92.59,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Youth Badge Tee Olive,Home/Apparel/,1750,527,35,25,30,30.11,2.0,1.43,83.33,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Tee Red,Sale,1706,424,24,15,22,24.85,1.41,0.88,68.18,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Infant Charcoal Onesie,Home/Apparel/Kids/,1629,399,25,18,42,24.49,1.53,1.1,42.86,5727,0.83,低浏览 + 高转化,0.0,严格路径覆盖较低
+Google ApPeel Journal Red,Stationery,1571,473,28,15,22,30.11,1.78,0.95,68.18,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Pride Sticker,Home/Stationery/Stickers/,1561,499,63,29,48,31.97,4.04,1.86,60.42,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Clear Framed Yellow Shades,Sale,1561,225,58,30,44,14.41,3.72,1.92,68.18,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Crew Striped Athletic Sock,Home/Apparel/Socks/,1520,426,60,43,56,28.03,3.95,2.83,76.79,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Light Pen Red,Home/Stationery/,1511,589,77,49,67,38.98,5.1,3.24,73.13,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Incognito Zip Pack,Lifestyle/Bags/,1485,142,38,17,23,9.56,2.56,1.14,73.91,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Men's Softshell Moss,Men's / Unisex,1481,293,26,18,30,19.78,1.76,1.22,60.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Confetti Task Pad,Home/Stationery/Notebooks/,1450,286,28,19,23,19.72,1.93,1.31,82.61,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google KeepCup,Drinkware,1391,209,46,28,42,15.03,3.31,2.01,66.67,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Pen Bright Blue,Home/Stationery/,1354,539,52,35,48,39.81,3.84,2.58,72.92,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Felt Luggage Tag,Home/Eco-Friendly/,1301,279,30,17,20,21.45,2.31,1.31,85.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cork Card Holder,Home/Eco-Friendly/,1252,262,31,20,24,20.93,2.48,1.6,83.33,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cork Pencil Pouch,Home/Eco-Friendly/,1241,275,42,14,23,22.16,3.38,1.13,60.87,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cork Passport Holder,Home/Eco-Friendly/,1224,253,32,19,20,20.67,2.61,1.55,95.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Light Pen Green,Home/Stationery/Writing/,1190,453,67,41,58,38.07,5.63,3.45,70.69,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Android Iconic Socks,Home/Apparel/Socks/,1188,372,21,14,19,31.31,1.77,1.18,73.68,5727,0.83,低浏览 + 高转化,0.0,购买样本较少
+Google Knit Blanket,Lifestyle/Small Goods/,1186,220,23,10,12,18.55,1.94,0.84,83.33,5727,0.83,低浏览 + 高转化,0.0,购买样本较少
+Google Mural Socks,Home/Apparel/Socks/,1185,344,34,24,41,29.03,2.87,2.03,58.54,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Premium Sunglasses,Home/Shop by Brand/,1168,229,37,21,32,19.61,3.17,1.8,65.63,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Mural Sticky Note Pad,Home/Stationery/Notebooks/,1141,379,52,35,44,33.22,4.56,3.07,79.55,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Cork Key Ring,Home/Eco-Friendly/,1133,257,23,12,15,22.68,2.03,1.06,80.0,5727,0.83,低浏览 + 高转化,0.0,购买样本较少
+Android Pocket Tee Navy,Women's,1097,309,59,37,51,28.17,5.38,3.37,72.55,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Stan and Friends Onesie Green,Home/Apparel/,1090,200,17,14,24,18.35,1.56,1.28,58.33,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Pen Grey,Home/Stationery/Writing/,1086,452,43,24,31,41.62,3.96,2.21,77.42,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Red Kids Sunglasses,Small Goods,1079,227,22,18,22,21.04,2.04,1.67,81.82,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Stainless Straight Straw/Cleaner,Lifestyle/Drinkware/,1072,288,24,15,20,26.87,2.24,1.4,75.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Black Cloud Zip Hoodie,Men's / Unisex,1064,296,36,28,46,27.82,3.38,2.63,60.87,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Women's Tech Fleece Vest Charcoal,Sale,1051,234,13,10,22,22.26,1.24,0.95,45.45,5727,0.83,低浏览 + 高转化,0.0,严格路径覆盖较低
+Google Pen Grass Green,Home/Stationery/Writing/,1043,426,32,19,28,40.84,3.07,1.82,67.86,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Campus Bike Corkbase Mug Blue,Drinkware,1043,233,47,35,48,22.34,4.51,3.36,72.92,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Frisbee,Home/Shop by Brand/Google/,1036,140,19,13,21,13.51,1.83,1.25,61.9,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+Google Packable Bag Black,Lifestyle/,1031,198,71,36,48,19.2,6.89,3.49,75.0,5727,0.83,低浏览 + 高转化,0.0,可用于初步比较
+YouTube Standards Zip Hoodie Black,Home/Apparel/Men's / Unisex/,5702,920,22,11,15,16.13,0.39,0.19,73.33,5727,0.83,低浏览 + 低转化,36.5,购买样本较少
+YouTube Transmission Journal Red,Home/Shop by Brand/YouTube/,5489,961,16,10,20,17.51,0.29,0.18,50.0,5727,0.83,低浏览 + 低转化,35.7,可用于初步比较
+Google Bottle Cleaner,Lifestyle/Drinkware/,4483,1287,8,2,3,28.71,0.18,0.04,66.67,5727,0.83,低浏览 + 低转化,35.4,购买样本较少
+Android Iconic Glass Bottle Green,Lifestyle/Drinkware/,5355,1527,20,11,16,28.52,0.37,0.21,68.75,5727,0.83,低浏览 + 低转化,33.2,购买样本较少
+Google Mesh Bag Red,Lifestyle/Bags/,4857,897,13,8,12,18.47,0.27,0.16,66.67,5727,0.83,低浏览 + 低转化,32.5,购买样本较少
+Google Tech Taco,Lifestyle/Small Goods/,4840,1130,12,8,13,23.35,0.25,0.17,61.54,5727,0.83,低浏览 + 低转化,31.9,购买样本较少
+Google Mural Bottle,Lifestyle/Drinkware/,5022,1472,22,10,25,29.31,0.44,0.2,40.0,5727,0.83,低浏览 + 低转化,31.6,严格路径覆盖较低
+Stainless Bent Straw/Cleaner,Lifestyle/Drinkware/,5139,1450,17,12,12,28.22,0.33,0.23,100.0,5727,0.83,低浏览 + 低转化,30.8,购买样本较少
+Mural Food Container,Home/New/,4647,733,13,8,14,15.77,0.28,0.17,57.14,5727,0.83,低浏览 + 低转化,30.7,购买样本较少
+Google Jotter Task Pad,Home/Stationery/,4102,895,5,4,12,21.82,0.12,0.1,33.33,5727,0.83,低浏览 + 低转化,29.9,购买样本较少
+Google Confetti Accessory Pouch,Lifestyle/Bags/,4954,890,19,12,14,17.97,0.38,0.24,85.71,5727,0.83,低浏览 + 低转化,29.2,购买样本较少
+Google Incognito Messenger Bag,Lifestyle/Bags/,4697,824,16,10,12,17.54,0.34,0.21,83.33,5727,0.83,低浏览 + 低转化,29.1,购买样本较少
+Google Black Tee,Home/Sale/,3452,731,0,0,0,21.18,0.0,0.0,,5727,0.83,低浏览 + 低转化,28.7,购买样本较少
+Google Pocket Tee Grey,Home/Apparel/Women's/,3361,864,0,0,0,25.71,0.0,0.0,,5727,0.83,低浏览 + 低转化,27.9,购买样本较少
+Google Cloud  Unisex Zip Hoodie,Home/Apparel/Men's / Unisex/,3297,892,0,0,0,27.05,0.0,0.0,,5727,0.83,低浏览 + 低转化,27.4,购买样本较少
+Google Unisex Pride Eco-Tee Black,Men's / Unisex,3182,637,0,0,0,20.02,0.0,0.0,,5727,0.83,低浏览 + 低转化,26.4,购买样本较少
+#IamRemarkable Water Bottle,Lifestyle/Drinkware/,5173,1499,26,18,22,28.98,0.5,0.35,81.82,5727,0.83,低浏览 + 低转化,24.8,可用于初步比较
+Android Jotter Task Pad,Home/Eco-Friendly/,3662,704,10,6,12,19.22,0.27,0.16,50.0,5727,0.83,低浏览 + 低转化,24.5,购买样本较少
+Google Cup Cap Tumbler Grey,Lifestyle/Drinkware/,4975,1455,41,17,23,29.25,0.82,0.34,73.91,5727,0.83,低浏览 + 低转化,24.4,可用于初步比较
+Google Land & Sea Tote Bag,Home/New/,5560,1060,44,23,33,19.06,0.79,0.41,69.7,5727,0.83,低浏览 + 低转化,23.4,可用于初步比较
+Google Utility BackPack,Lifestyle/,5391,876,59,22,39,16.25,1.09,0.41,56.41,5727,0.83,低浏览 + 低转化,22.6,可用于初步比较
+YouTube Crew Socks,Home/Shop by Brand/YouTube/,5241,976,39,21,42,18.62,0.74,0.4,50.0,5727,0.83,低浏览 + 低转化,22.5,可用于初步比较
+#IamRemarkable Ladies T-Shirt,Home/Apparel/Women's/,4421,1103,22,14,23,24.95,0.5,0.32,60.87,5727,0.83,低浏览 + 低转化,22.5,可用于初步比较
+Google Cork Base Tumbler,Lifestyle/Drinkware/,5609,1526,38,24,34,27.21,0.68,0.43,70.59,5727,0.83,低浏览 + 低转化,22.4,可用于初步比较
+Google Campus Bike Carry Pouch,Lifestyle/Bags/,4691,836,22,17,22,17.82,0.47,0.36,77.27,5727,0.83,低浏览 + 低转化,22.0,可用于初步比较
+Google Small Cable Organizer Blue,Lifestyle/Small Goods/,4090,971,20,14,19,23.74,0.49,0.34,73.68,5727,0.83,低浏览 + 低转化,20.0,购买样本较少
+Candy Cane Android Cardboard Sculpture,Lifestyle/Small Goods/,2382,290,0,0,1,12.17,0.0,0.0,0.0,5727,0.83,低浏览 + 低转化,19.8,购买样本较少
+Google Women's Eco Tee Black,Home/Apparel/Women's/,2441,617,1,1,1,25.28,0.04,0.04,100.0,5727,0.83,低浏览 + 低转化,19.3,购买样本较少
+Google Tudes Recycled Tee,Home/Apparel/Men's / Unisex/,4650,1236,29,20,21,26.58,0.62,0.43,95.24,5727,0.83,低浏览 + 低转化,18.6,可用于初步比较
+YouTube Iconic Play Pin,Home/Shop by Brand/YouTube/,4872,766,43,22,25,15.72,0.88,0.45,88.0,5727,0.83,低浏览 + 低转化,18.5,可用于初步比较
+Android Iconic Pin,Lifestyle/Small Goods/,3619,799,20,12,17,22.08,0.55,0.33,70.59,5727,0.83,低浏览 + 低转化,18.1,购买样本较少
+Android Iconic Mug Gray,Lifestyle/Drinkware/,4870,1408,47,23,30,28.91,0.97,0.47,76.67,5727,0.83,低浏览 + 低转化,17.5,可用于初步比较
+YouTube 25 oz Gear Cap Bottle Black,Home/Shop by Brand/,3147,512,14,9,16,16.27,0.44,0.29,56.25,5727,0.83,低浏览 + 低转化,17.0,购买样本较少
+Google Mouse Pad Navy,Lifestyle/Small Goods/,4428,1133,26,20,25,25.59,0.59,0.45,80.0,5727,0.83,低浏览 + 低转化,16.8,可用于初步比较
+Google Mesh Bag Blue,Lifestyle/Bags/,4687,830,49,23,31,17.71,1.05,0.49,74.19,5727,0.83,低浏览 + 低转化,15.9,可用于初步比较
+Google Women's Microfleece Jacket Black,Home/Shop by Brand/Google/,5590,1281,42,31,33,22.92,0.75,0.55,93.94,5727,0.83,低浏览 + 低转化,15.7,可用于初步比较
+Google Mountain View Tee Blue,Men's T-Shirts/,1852,349,0,0,0,18.84,0.0,0.0,,5727,0.83,低浏览 + 低转化,15.4,购买样本较少
+Google Super G Tumbler (Blue Lid),Home/Eco-Friendly/,2920,529,13,9,18,18.12,0.45,0.31,50.0,5727,0.83,低浏览 + 低转化,15.2,购买样本较少
+Google Cambridge Campus Tote,Home/Campus Collection/,2282,623,5,4,4,27.3,0.22,0.18,100.0,5727,0.83,低浏览 + 低转化,14.8,购买样本较少
+Google Cambridge Campus Bottle,Home/Campus Collection/,2332,637,18,5,7,27.32,0.77,0.21,71.43,5727,0.83,低浏览 + 低转化,14.5,购买样本较少
+Google Cambridge Campus Ladies Tee,Home/Campus Collection/,2311,626,7,5,6,27.09,0.3,0.22,83.33,5727,0.83,低浏览 + 低转化,14.1,购买样本较少
+Google Tee Dark Blue,Home/Sale/,1695,389,0,0,0,22.95,0.0,0.0,,5727,0.83,低浏览 + 低转化,14.1,购买样本较少
+Google Phone Stand Bamboo,Lifestyle/Small Goods/,4571,1067,42,24,46,23.34,0.92,0.53,52.17,5727,0.83,低浏览 + 低转化,13.7,可用于初步比较
+Snowflake Android Cardboard Sculpture,Lifestyle/Small Goods/,2859,646,20,11,21,22.6,0.7,0.38,52.38,5727,0.83,低浏览 + 低转化,12.9,可用于初步比较
+Supernatural Paper Backpack,New,1950,319,19,4,7,16.36,0.97,0.21,57.14,5727,0.83,低浏览 + 低转化,12.1,购买样本较少
+Google Tracking Hat,Home/Apparel/Hats/,1448,0,0,0,0,0.0,0.0,0.0,,5727,0.83,低浏览 + 低转化,12.0,购买样本较少
+Google LoveHandle Black,Lifestyle/Small Goods/,3533,779,30,18,30,22.05,0.85,0.51,60.0,5727,0.83,低浏览 + 低转化,11.3,可用于初步比较
+Google Woodtop Bottle Black,Lifestyle/Drinkware/,4768,1395,60,29,54,29.26,1.26,0.61,53.7,5727,0.83,低浏览 + 低转化,10.5,可用于初步比较
+Android Iconic 4&quot; Decal,Home/Stationery/Stickers/,1751,568,13,4,17,32.44,0.74,0.23,23.53,5727,0.83,低浏览 + 低转化,10.5,购买样本较少
+Google Tonal Tee Spearmint,Home/Sale/,1225,93,0,0,2,7.59,0.0,0.0,0.0,5727,0.83,低浏览 + 低转化,10.2,购买样本较少
+Google Chrome Dino Light Up Water Bottle,Home/New/,2023,429,9,7,7,21.21,0.44,0.35,100.0,5727,0.83,低浏览 + 低转化,9.7,购买样本较少
+Google Cambridge Campus Unisex Tee,Home/Campus Collection/,2311,628,15,10,12,27.17,0.65,0.43,83.33,5727,0.83,低浏览 + 低转化,9.2,购买样本较少
+Google Tee F/C Black,Sale,1426,450,4,3,7,31.56,0.28,0.21,42.86,5727,0.83,低浏览 + 低转化,8.8,购买样本较少
+Google Youth FC Longsleeve Charcoal,Home/Apparel/Kids/,3075,713,31,17,22,23.19,1.01,0.55,77.27,5727,0.83,低浏览 + 低转化,8.6,可用于初步比较
+Android Pocket Onesie White,Home/Apparel/Kids/,1036,97,0,0,1,9.36,0.0,0.0,0.0,5727,0.83,低浏览 + 低转化,8.6,购买样本较少
+Google Mini Kick Ball,Lifestyle/,2550,433,23,13,35,16.98,0.9,0.51,37.14,5727,0.83,低浏览 + 低转化,8.2,严格路径覆盖较低
+Google Cambridge Campus Zip Hoodie,Home/Sale/,2637,697,18,14,16,26.43,0.68,0.53,87.5,5727,0.83,低浏览 + 低转化,7.9,购买样本较少
+Google Youth FC Tee Charcoal,Home/Apparel/,3197,771,25,19,28,24.12,0.78,0.59,67.86,5727,0.83,低浏览 + 低转化,7.7,可用于初步比较
+Google Women's Puff Jacket Black,Home/Apparel/Women's/,4863,1174,51,33,46,24.14,1.05,0.68,71.74,5727,0.83,低浏览 + 低转化,7.3,可用于初步比较
+Google Cambridge Campus Sticker,Home/Campus Collection/,2801,840,25,16,18,29.99,0.89,0.57,88.89,5727,0.83,低浏览 + 低转化,7.3,购买样本较少
+Google Tonal Tee Coral,Home/Sale/,1200,268,7,3,6,22.33,0.58,0.25,50.0,5727,0.83,低浏览 + 低转化,7.0,购买样本较少
+Google Confetti Slim Task Pad,Home/Stationery/Notebooks/,2649,752,20,15,24,28.39,0.76,0.57,62.5,5727,0.83,低浏览 + 低转化,6.9,可用于初步比较
+Google Color Block Notebook,Home/Stationery/Notebooks/,2249,410,16,12,17,18.23,0.71,0.53,70.59,5727,0.83,低浏览 + 低转化,6.7,购买样本较少
+Google Cork Tablet Case,Home/Eco-Friendly/,1146,228,5,3,6,19.9,0.44,0.26,50.0,5727,0.83,低浏览 + 低转化,6.5,购买样本较少
+Google Cloth & Pouch Black,Lifestyle/Small Goods/,1355,369,6,5,8,27.23,0.44,0.37,62.5,5727,0.83,低浏览 + 低转化,6.2,购买样本较少
+Google Mountain View Campus Unisex Tee,Sale,1223,342,6,4,7,27.96,0.49,0.33,57.14,5727,0.83,低浏览 + 低转化,6.1,购买样本较少
+Android Iconic Sticker Sheet,Home/Stationery/Stickers/,1805,572,18,9,14,31.69,1.0,0.5,64.29,5727,0.83,低浏览 + 低转化,6.0,购买样本较少
+Supernatural Paper Tote,Home/Eco-Friendly/,1407,259,19,6,13,18.41,1.35,0.43,46.15,5727,0.83,低浏览 + 低转化,5.6,购买样本较少
+Google Campus Bike Tote Navy,Lifestyle/Bags/,5492,909,58,40,49,16.55,1.06,0.73,81.63,5727,0.83,低浏览 + 低转化,5.5,可用于初步比较
+YouTube Play Mug,Home/Shop by Brand/YouTube/,5088,834,58,37,52,16.39,1.14,0.73,71.15,5727,0.83,低浏览 + 低转化,5.1,可用于初步比较
+Google Youth FC Zip Hoodie,Home/Apparel/Kids/,1204,156,7,5,5,12.96,0.58,0.42,100.0,5727,0.83,低浏览 + 低转化,4.9,购买样本较少
+Google Recycled Pen Green,Home/Eco-Friendly/,1417,325,15,7,10,22.94,1.06,0.49,70.0,5727,0.83,低浏览 + 低转化,4.8,购买样本较少
+Google Mens Microfleece Jacket Black,Home/Sale/,1040,153,9,4,9,14.71,0.87,0.38,44.44,5727,0.83,低浏览 + 低转化,4.7,购买样本较少
+Supernatural Paper Lunch Sack,Home/Eco-Friendly/,1586,268,14,9,13,16.9,0.88,0.57,69.23,5727,0.83,低浏览 + 低转化,4.1,购买样本较少
+Google Shoreline Water Bottle,Home/New/,1658,363,21,10,10,21.89,1.27,0.6,100.0,5727,0.83,低浏览 + 低转化,3.8,购买样本较少
+Google Tee Grey,Sale,1393,272,19,9,16,19.53,1.36,0.65,56.25,5727,0.83,低浏览 + 低转化,2.5,购买样本较少
+Google Tee Blue,Sale,1846,437,16,13,16,23.67,0.87,0.7,81.25,5727,0.83,低浏览 + 低转化,2.4,购买样本较少
+Google See-No Hear-No Set,Lifestyle/Small Goods/,3879,855,48,30,43,22.04,1.24,0.77,69.77,5727,0.83,低浏览 + 低转化,2.3,可用于初步比较
+Google Toddler Hero Tee Olive,Home/Apparel/Kids/,1476,256,13,10,16,17.34,0.88,0.68,62.5,5727,0.83,低浏览 + 低转化,2.2,购买样本较少
+Google Bear Baby Blanket Beige,Home/Shop by Brand/Google/,2195,589,21,17,33,26.83,0.96,0.77,51.52,5727,0.83,低浏览 + 低转化,1.3,可用于初步比较
+Google Youth Hero Tee Maroon,Home/Apparel/Kids/,1838,444,18,14,20,24.16,0.98,0.76,70.0,5727,0.83,低浏览 + 低转化,1.3,可用于初步比较
+Google Flat Front Bag Grey,Lifestyle/Bags/,5406,1023,99,44,61,18.92,1.83,0.81,72.13,5727,0.83,低浏览 + 低转化,1.1,可用于初步比较
+Google Men's Puff Jacket Black,Home/Shop by Brand/Google/,4327,826,55,35,52,19.09,1.27,0.81,67.31,5727,0.83,低浏览 + 低转化,0.9,可用于初步比较
+Google Campus Bike Grid Task Pad,Home/Stationery/Notebooks/,1795,522,20,14,22,29.08,1.11,0.78,63.64,5727,0.83,低浏览 + 低转化,0.9,可用于初步比较
+Google Toddler Hero Tee Black,Home/Apparel/Kids/,1887,534,20,15,22,28.3,1.06,0.79,68.18,5727,0.83,低浏览 + 低转化,0.8,可用于初步比较
+Google NYC Campus Lapel Pin,Home/Campus Collection/,2318,642,30,19,22,27.7,1.29,0.82,86.36,5727,0.83,低浏览 + 低转化,0.2,可用于初步比较

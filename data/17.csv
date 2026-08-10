@@ -1,0 +1,2 @@
+total_distinct_item_ids,item_ids_with_multiple_names,view_item_ids,cart_item_ids,checkout_item_ids,purchase_item_ids,purchased_item_ids_without_view,purchased_item_ids_without_cart,purchased_item_ids_without_checkout
+1393,6,427,806,797,810,805,558,32

@@ -1,0 +1,2 @@
+row_count,distinct_session_item_count,view_session_items,cart_session_items,checkout_session_items,purchase_session_items,purchase_session_items_without_view,purchase_session_items_without_checkout,strict_purchase_session_items,strict_purchase_coverage_pct
+1085498,1085498,1082101,269235,17859,13693,2000,3048,8968,65.49
