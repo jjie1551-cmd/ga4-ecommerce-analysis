@@ -279,3 +279,50 @@ ga4-ecommerce-analysis/
 - 区分“发现相关关系”和“证明因果关系”
 - 把分析结果转成业务建议
 - 为业务建议设计后续 A/B Test 验证方案
+
+- ---
+
+## 8. Tableau BI Dashboard
+
+在完成 BigQuery SQL 分析和 Python 可视化后，我进一步使用 **Tableau Public** 搭建了一个交互式 BI Dashboard，用于集中展示核心经营指标，并支持按不同维度进行筛选和下钻分析。
+
+Dashboard 主要包含：
+
+- **核心 KPI**
+  - 会话数：354,857
+  - 商品浏览会话：75,264
+  - 发起结账会话：10,572
+  - 购买会话：4,592
+
+- **严格会话级转化漏斗**
+  - Website Visit → Product View → Begin Checkout → Purchase
+  - 用于快速定位主要流失环节
+
+- **月度购买转化趋势**
+  - 展示 2020-11 至 2021-01 的整体购买率变化
+  - 支持点击月份查看不同漏斗阶段的转化表现
+
+- **首次触达流量来源表现**
+  - 对比不同 first-touch acquisition source 的整体购买率
+
+- **商品机会四象限**
+  - 以商品浏览规模和严格浏览至购买率为两个维度
+  - 用于识别高浏览低转化商品和低浏览高转化商品
+
+- **交互筛选**
+  - 月份
+  - 首次触达来源
+  - 设备
+  - 国家 / 地区
+  - 商品象限
+
+Dashboard 中的核心指标沿用前述已经验证过的 SQL 分析口径，Tableau 主要负责展示、筛选和交互探索。
+
+### Dashboard Preview
+
+![GA4 Ecommerce Growth Dashboard](GA4_Ecommerce_Growth_Dashboard.png)
+
+### Tableau Public
+
+https://public.tableau.com/app/profile/.36684389/viz/GA4_Ecommerce_Growth_Dashboard_Portfolio_Final/GA4E-commerceOverview?publish=yes
+
